@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![UbiHPC Lemma](https://github.com/leonardocfor/leonardocfor/blob/master/ubihpc_banner_website4.png)
+
+### Hi I am Leonardo, CEO of [UbiHPC](https://www.ubihpc.com), PhD in Aerospace Science & Technology and science fiction writer. Check my book [The Dark Buddha](https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW) 
 <!--
 **leonardocfor/leonardocfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
