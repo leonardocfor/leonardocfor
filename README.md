@@ -12,10 +12,10 @@
   <br>
   <div class="row">
     <div class="column">
-      <a href="https://www.linkedin.com/in/leonardocamargoforero/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" width="30" height="30" alt="@leonardocamargoforero"></a>
+      <a href="https://www.linkedin.com/in/leonardocamargoforero/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" style="width:100%" alt="@leonardocamargoforero"></a>
     </div>
     <div class="column">
-      <a href="https://medium.com/@leonardocamargoforero" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" width="30" height="30" alt="@leonardocamargoforero"></a>
+      <a href="https://medium.com/@leonardocamargoforero" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" style="width:100%" alt="@leonardocamargoforero"></a>
     </div>
   </div>
   <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots in a supercomputer.For example see a cluster of hacker robots </p>
