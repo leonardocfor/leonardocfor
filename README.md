@@ -16,12 +16,14 @@
 </p>
 
   <br>
-  <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots in a supercomputer.For example see a cluster of hacker robots. Or software to create genetic music. Here is our new release. The Weed's THC genetic electronic track </p>
+  <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots in a supercomputer or software to create genetic music. </p>
   <p>
-   <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE" width="350" height="220"></a>
+   <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE" width="350" height="240"></a>
  <!--  <a href="https://www.youtube.com/watch?v=HWVTAvGb0gQ" target="_blank"><img src="https://img.youtube.com/vi/HWVTAvGb0gQ/0.jpg" alt="GenM restart" width="250" height="250"></a>-->
-   <a href="#"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC" width="350" height="220"></a>
+   <a href="#"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC" width="350" height="240"></a>
   </p>
+  Cluster of hacker robots. The Weed's THC genetic electronic track  
+  <p>
   
   <p> </p>
   
