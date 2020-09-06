@@ -1,5 +1,18 @@
 <html>
-
+<head>
+<style>
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+</style>
+</head>
 <body>
   <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC"></a>
 
