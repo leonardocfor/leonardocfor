@@ -1,8 +1,7 @@
 <html>
   <body>
-    <div style="text-align:center">
-        <iframe width="420" height="315" src="https://www.youtube.com/watch?v=SEGLlQA-TSg"></iframe> 
-    </div>  
+    <iframe width="420" height="315" src="https://www.youtube.com/watch?v=SEGLlQA-TSg"></iframe> 
+   
   </body>
   
 </html>
