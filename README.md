@@ -11,6 +11,8 @@
   <p>
 	<a href="https://www.linkedin.com/in/leonardocamargoforero/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" width="30" height="30" alt="@leonardocamargoforero"></a>
   <a href="https://medium.com/@leonardocamargoforero" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" width="30" height="30" alt="@leonardocamargoforero"></a>
+<a href="https://scholar.google.com.co/citations?user=2sbkoPwAAAAJ&hl=es&oi=ao" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/scholar.png" width="30" height="30" alt="@leonardocamargoforero"></a>
+<a href="https://www.instagram.com/leonardo_cfor" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/instagram.png" width="30" height="30" alt="@leonardocamargoforero"></a>
 </p>
 
   <br>
