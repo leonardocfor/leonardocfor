@@ -8,7 +8,7 @@
   <p>Hi I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
       target="_blank">The Dark Buddha</a>
   </p>
-  <p align="center">
+  <p>
 	<a href="https://www.linkedin.com/in/leonardocamargoforero/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" width="30" height="30" alt="@leonardocamargoforero"></a>
   <a href="https://medium.com/@leonardocamargoforero" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" width="30" height="30" alt="@leonardocamargoforero"></a>
 </p>
