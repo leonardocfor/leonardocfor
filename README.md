@@ -6,8 +6,8 @@
     <div align="center">
       <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE"></a>
     </div>
-     <p> Or software to create genetic music. Here is our new release</p>
-     <img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC"> 
+     <p> Or software to create genetic music. Here is our new release. The Weed's THC genetic electronic track</p>
+     <img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC"> 
   </body>
   
 </html>
