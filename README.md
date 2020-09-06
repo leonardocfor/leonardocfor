@@ -1,12 +1,9 @@
 <html>
   <body>
-    <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=SEGLlQA-TSg" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-    
-    
+    <div align="center">
+  <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE"></a>
+</div>
+     
    
   </body>
   
