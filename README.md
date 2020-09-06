@@ -18,9 +18,9 @@
   <br>
   <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots in a supercomputer or software to create genetic music. </p>
   <p>
-   <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE" width="30%" height="280"></a>
+   <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE" width="40%" height="280"></a>
  <!--  <a href="https://www.youtube.com/watch?v=HWVTAvGb0gQ" target="_blank"><img src="https://img.youtube.com/vi/HWVTAvGb0gQ/0.jpg" alt="GenM restart" width="250" height="250"></a>-->
-   <a href="#"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC" width="60%" height="280"></a>
+   <a href="#"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC" width="50%" height="280"></a>
   </p>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Cluster of hacker robots</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>[Next Release] The Weed's THC genetic electronic track </b> 
   <p>
