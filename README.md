@@ -1,6 +1,10 @@
 <html>
   <body>
-    <div style="text-align:center"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" /></div>  
+    <div style="text-align:center">
+       <video width="320" height="240" controls>
+          <source src="https://www.youtube.com/watch?v=SEGLlQA-TSg" type="video/mp4">
+       </video> 
+    </div>  
   </body>
   
 </html>
