@@ -1,4 +1,4 @@
-![UbiHPC](https://github.com/leonardocfor/leonardocfor/blob/master/ubihpc-logo-2_HQ.png)
+![UbiHPC](https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png)
 
 ### Hi I am Leonardo, CEO of [UbiHPC](https://www.ubihpc.com), PhD in Aerospace Science & Technology and science fiction writer. Check my book [The Dark Buddha](https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW) 
 <!--
