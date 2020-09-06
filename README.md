@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![UbiHPC Lemma](https://github.com/leonardocfor/leonardocfor/blob/master/ubihpc_banner_website4.png)
 <!--
 **leonardocfor/leonardocfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
