@@ -10,14 +10,20 @@
       target="_blank">The Dark Buddha</a>
   </p>
   <br>
-  <div class="row">
-    <div class="column">
-      <a href="https://www.linkedin.com/in/leonardocamargoforero/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" width="30" height="30"  alt="@leonardocamargoforero"></a>
-    </div>
-    <div class="column">
-      <a href="https://medium.com/@leonardocamargoforero" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" width="30" height="30"  alt="@leonardocamargoforero"></a>
-    </div>
+ <div class="NavBar">
+  <div class="img_container">
+    <img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" class="icons">
+    <a href="https://www.linkedin.com/in/leonardocamargoforero/"></a>
   </div>
+  <div class="img_container">
+    <img src="https://github.com/leonardocfor/leonardocfor/blob/master/medium.png" class="icons">
+    <a href="https://medium.com/@leonardocamargoforero"></a>
+  </div>
+  <div class="img_container">
+    <img src="https://github.com/leonardocfor/leonardocfor/blob/master/linkedin.jpeg" class="icons">
+    <a href="#"></a>
+  </div>
+</div>
   <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots in a supercomputer.For example see a cluster of hacker robots </p>
   <div align="center">
     <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE"></a>
