@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC"></a>
+  <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="10%" height="100"></a>
 
   <p>Hi, I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
       target="_blank">The Dark Buddha</a>
