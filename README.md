@@ -5,7 +5,7 @@
 <body>
   <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="25%" height="100"></a>
 
-  <p>Hi, I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, scientist, <a href="https://www.sciencedirect.com/science/article/abs/pii/S092188901830232X" target="_blank">High Performance Robotic Computing</a> architect, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
+  <p>Hi, I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, CEO of <a href="https://www.hackingverse.com" target="_blank">Hackingverse</a>, CTO of <a href="https://www.finppi.com" target="_blank">Finppi</a> and CSTO (Chief Science & Technology Officer) of <a href="https://nsscolombia.space/" target="_blank">National Space Society Colombia (officially recognized chapter of the US NSS)</a>. Scientist, <a href="https://www.sciencedirect.com/science/article/abs/pii/S092188901830232X" target="_blank">High Performance Robotic Computing</a> architect, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
       target="_blank">The Dark Buddha</a>
   </p>
   <p>
