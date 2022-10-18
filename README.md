@@ -3,6 +3,14 @@
 <head>
 </head>
 <body>
+  <a href="https://github.com/leonardocfor/leonardocfor">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocfor&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/josefaidt/josefaidt">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=leonardocfor&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+</a>
+  
+  
   <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="25%" height="100"></a>
 
   <p>Hi, I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, CEO of <a href="https://www.hackingverse.com" target="_blank">Hackingverse</a>, CTO of <a href="https://www.finppi.com" target="_blank">Finppi</a> and CSTO (Chief Science & Technology Officer) of <a href="https://nsscolombia.space/" target="_blank">National Space Society Colombia (officially recognized chapter of the US NSS)</a>. Scientist, <a href="https://www.sciencedirect.com/science/article/abs/pii/S092188901830232X" target="_blank">High Performance Robotic Computing</a> architect, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
