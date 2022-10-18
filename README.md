@@ -27,7 +27,7 @@
   
   <table>
     <tr>
-      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="100%%" height="100%%"></a></td>
+      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="100%" height="100%"></a></td>
       <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="50%" height="50%"></a></td>
       <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="50%%" height="50%%"></a></td>
       <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="50%%" height="50%%"></a></td>
@@ -36,7 +36,7 @@
   
   <h3>Writing</h3>
 
-  <p>I enjoy writing, so if you like you can follow me on <a href="https://leonardocamargoforero.medium.com/" target="_blank">Mediun</a> or you can find my science fiction triller The Dark Buddha on <a href="https://www.amazon.com/-/es/Leonardo-Camargo-Forero/dp/1535357436" target="_blank">Amazon</a> </p>
+  <p>I enjoy writing, so if you like you can follow me on <a href="https://leonardocamargoforero.medium.com/" target="_blank">Medium</a> or you can find my science fiction triller The Dark Buddha on <a href="https://www.amazon.com/-/es/Leonardo-Camargo-Forero/dp/1535357436" target="_blank">Amazon</a> </p>
   
 </body>
 </html>
