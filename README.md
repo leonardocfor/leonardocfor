@@ -28,9 +28,9 @@
   <table>
     <tr>
       <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="100%%" height="100%%"></a></td>
-      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="100%%" height="100%%"></a></td>
-      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="100%%" height="100%%"></a></td>
-      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="100%%" height="100%%"></a></td>
+      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="50%" height="50%"></a></td>
+      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="50%%" height="50%%"></a></td>
+      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="50%%" height="50%%"></a></td>
     </tr>
   </table>
   
