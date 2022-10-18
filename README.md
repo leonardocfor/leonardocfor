@@ -3,21 +3,8 @@
 <head>
 </head>
 <body>
-	<h2>I love to create things, a software, a robot, a product, a company, a book, anything</h2>
-
 	
-	<h3> On GitHub </h3>
-<a href="https://github.com/leonardocfor/leonardocfor">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocfor&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/josefaidt/josefaidt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=leonardocfor&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
-</a>
-	
-	<h3>My creations </h3>
-  
-  
-  <a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="25%" height="100"></a>
+  <h2>I love to create things, a software, a robot, a product, a company, a book, anything</h2>
 
   <p>Hi, I am Leonardo, CEO of <a href="https://www.ubihpc.com" target="_blank">UbiHPC</a>, CEO of <a href="https://www.hackingverse.com" target="_blank">Hackingverse</a>, CTO of <a href="https://www.finppi.com" target="_blank">Finppi</a> and CSTO (Chief Science & Technology Officer) of <a href="https://nsscolombia.space/" target="_blank">National Space Society Colombia (officially recognized chapter of the US NSS)</a>. Scientist, <a href="https://www.sciencedirect.com/science/article/abs/pii/S092188901830232X" target="_blank">High Performance Robotic Computing</a> architect, PhD in Aerospace Science & Technology and science fiction writer. Check my book <a href="https://www.amazon.com/Dark-Buddha-Leonardo-Camargo-Forero-ebook/dp/B01IQ53ELW"
       target="_blank">The Dark Buddha</a>
@@ -28,14 +15,47 @@
 <a href="https://scholar.google.com.co/citations?user=2sbkoPwAAAAJ&hl=es&oi=ao" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/scholar.png" width="30" height="30" alt="@leonardocamargoforero"></a>
 <a href="https://www.instagram.com/leonardo_cfor" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/instagram.png" width="30" height="30" alt="@leonardocamargoforero"></a>
 </p>
-
-  <br>
-  <p>At UbiHPC, we create unusual software, for example a framework to transform a group of robots into a supercomputer or software to create genetic music. Figure 1. <b>Cluster of hacker robots</b>. Figure 2. <b>[Next Release] The Weed's THC genetic electronic track </b>   </p>
-  <p>
-   <a href="https://www.youtube.com/watch?v=SEGLlQA-TSg" target="_blank"><img src="https://img.youtube.com/vi/SEGLlQA-TSg/0.jpg" alt="The ARCHADE" width="40%" height="280"></a>
- <!--  <a href="https://www.youtube.com/watch?v=HWVTAvGb0gQ" target="_blank"><img src="https://img.youtube.com/vi/HWVTAvGb0gQ/0.jpg" alt="GenM restart" width="250" height="250"></a>-->
-   <a href="#"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/Artwork%20The%20TCH%20Code%20FB%20COVER.jpg" alt="UbiHPC" width="50%" height="280"></a>
+  	
+  <a href="https://github.com/leonardocfor/leonardocfor">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocfor&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/josefaidt/josefaidt">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=leonardocfor&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+  </a>
+	<br>
+  <h3>Startups and organizations</h3>
   
+  <table>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="25%" height="100"></a></td>
+      <td>UbiHPC</td>
+      <td><a href="https://www.ubihpc.com" target="_blank">UbiHPC</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="25%" height="100"></a></td>
+      <td>Hackingverse</td>
+      <td><a href="https://www.hackingverse.com" target="_blank">Hackingverse</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="25%" height="100"></a></td>
+      <td>Finppi</td>
+      <td><a href="https://www.finppi.com" target="_blank">Finppi</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="25%" height="100"></a></td>
+      <td>National Space Society Colombia</td>
+      <td><a href="https://nsscolombia.space/" target="_blank">NSS-C</a></td>
+    </tr>
+  </table>
+  
+  <h3>Writing</h3>
+
+  <p>I enjoy writing, so if you like you can follow me on <a href="https://leonardocamargoforero.medium.com/" target="_blank">Mediun</a> or you can find my science fiction triller The Dark Buddha on <a href="https://www.amazon.com/-/es/Leonardo-Camargo-Forero/dp/1535357436" target="_blank">Amazon</a> </p>
   
 </body>
 </html>
