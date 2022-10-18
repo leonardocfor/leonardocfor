@@ -27,22 +27,22 @@
   
   <table>
     <tr>
-      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="50%" height="50%"></a></td>
+      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="25%" height="25%"></a></td>
       <td>UbiHPC</td>
       <td><a href="https://www.ubihpc.com" target="_blank">UbiHPC</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="50%" height="50%"></a></td>
+      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="25%" height="25%"></a></td>
       <td>Hackingverse</td>
       <td><a href="https://www.hackingverse.com" target="_blank">Hackingverse</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="50%" height="50%"></a></td>
+      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="25%" height="25%"></a></td>
       <td>Finppi</td>
       <td><a href="https://www.finppi.com" target="_blank">Finppi</a></td>
     </tr>
     <tr>
-      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="50%" height="50%"></a></td>
+      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="25%" height="25%"></a></td>
       <td>National Space Society Colombia</td>
       <td><a href="https://nsscolombia.space/" target="_blank">NSS-C</a></td>
     </tr>
