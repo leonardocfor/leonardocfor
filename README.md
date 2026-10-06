@@ -25,7 +25,7 @@
   
   <h3>Writing</h3>
 
-  <p>I enjoy writing, so if you like you can follow me on <a href="https://leonardocamargoforero.medium.com/" target="_blank">Medium</a> or you can find my science fiction triller The Dark Buddha on <a href="https://www.amazon.com/-/es/Leonardo-Camargo-Forero/dp/1535357436" target="_blank">Amazon</a> </p>
+  <p>I enjoy writing, so if you like you can follow me on <a href="https://leonardocamargoforero.medium.com/" target="_blank">Medium</a> or you can find my science fiction triller The Dark Buddha on <a href="https://www.thedarkbuddha.com" target="_blank">Amazon</a> </p>
   
 </body>
 </html>
