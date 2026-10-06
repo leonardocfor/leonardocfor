@@ -4,7 +4,7 @@
 </head>
 <body>
 	
-  <h2>I love to create things, a software, a robot, a product, a company, a book, anything</h2>
+  <h2>I love creating things — software, robots, products, companies, books, anything.</h2>
 
   </p>
   <p>
