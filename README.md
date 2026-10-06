@@ -21,16 +21,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=leonardocfor&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
   </a>
 	<br>
-  <h3>Startups and organizations</h3>
   
-  <table>
-    <tr>
-      <td><a href="https://www.ubihpc.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-transparent.png" alt="UbiHPC" width="200%" height="200%"></a></td>
-      <td><a href="https://www.hackingverse.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-HCKVERSE.png" alt="Hackingverse" width="50%" height="50%"></a></td>
-      <td><a href="https://www.finppi.com" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-finppi.png" alt="Finppi" width="50%%" height="50%%"></a></td>
-      <td><a href="https://nsscolombia.space/" target="_blank"><img src="https://github.com/leonardocfor/leonardocfor/blob/master/logo-NSS.png" alt="NSS Colombia" width="50%%" height="50%%"></a></td>
-    </tr>
-  </table>
   
   <h3>Writing</h3>
 
